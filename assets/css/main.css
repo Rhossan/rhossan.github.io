@@ -48,6 +48,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/* devicons */
+.devicons{
+	font-size: 5rem;
+}
 /* Box Model */
 
 	*, *:before, *:after {
@@ -2913,7 +2917,7 @@
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: white;
 			}
 
 			.statistics li.style2 {
